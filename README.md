@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lance547
 - 👀 I’m interested in Go
 - 🌱 I’m currently learning Go 
-- 💞️ My [Blog](http://47.109.84.129/)
+- 💞️ My [Blog](http://lance47.com/)
 - 📫 How to reach me :437653103@qq.com
 
 <!---
