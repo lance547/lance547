@@ -1,4 +1,4 @@
-![屏幕截图 2023-11-05 235909](https://github.com/lance547/lance547/assets/139835134/56bcaf54-799b-4624-94b3-fa04b10cf28f)- 👋 Hi, I’m @lance547
+ 👋 Hi, I’m @lance547
 - 👀 I’m interested in Go
 - 🌱 I’m currently learning Go 
 - 💞️ My [Blog](http://lance47.com/)
