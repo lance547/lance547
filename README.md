@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lance547
+![屏幕截图 2023-11-05 235909](https://github.com/lance547/lance547/assets/139835134/56bcaf54-799b-4624-94b3-fa04b10cf28f)- 👋 Hi, I’m @lance547
 - 👀 I’m interested in Go
 - 🌱 I’m currently learning Go 
 - 💞️ My [Blog](http://lance47.com/)
@@ -12,3 +12,4 @@
 lance547/lance547 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lance547&layout=compact&theme=tokyonight)
