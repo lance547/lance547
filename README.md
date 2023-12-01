@@ -1,10 +1,12 @@
 ### blog:
-I'll publish my blog to the double address,but the content is same
+---
+I'll publish my blog to the following two webside,but the content is same.
+
 
 [Blog](http://lance47.com/) powered by WordPress
 
 [Blog](http://lance547.github.io) powered by Hugo
-
+___
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lance547)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 lance547/lance547 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
