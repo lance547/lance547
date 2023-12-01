@@ -1,5 +1,6 @@
 ### blog:
 I'll publish my blog to the double address,but the content is same
+
 [Blog](http://lance47.com/) powered by WordPress
 
 [Blog](http://lance547.github.io) powered by Hugo
