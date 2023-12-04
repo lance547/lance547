@@ -1,3 +1,6 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### blog:
 ---
 I'll publish my blog to the following two webside,but the content is same.
