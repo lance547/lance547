@@ -1,4 +1,6 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2019%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue)
 
 **🐱 My GitHub Data** 
@@ -40,16 +42,21 @@ Sunday                   5 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       2 hrs 15 mins       ████████████████████████░   97.51 % 
+HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Go Template              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   2 hrs 17 mins       █████████████████████████   98.85 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+chatroom                 2 hrs 18 mins       █████████████████████████   98.99 % 
+simpleCliApplication     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -62,7 +69,7 @@ HTML                     2 repos             ███████░░░░�
 
 
 
- Last Updated on 06/12/2023 18:33:24 UTC
+ Last Updated on 06/12/2023 23:09:21 UTC
 <!--END_SECTION:waka-->
 
 ### blog:
