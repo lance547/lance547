@@ -3,6 +3,8 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
+![gopher dancing](./dancing-gopher.gif)
+
 **🐱 My GitHub Data** 
 
 > 📦 12.5 kB Used in GitHub's Storage 
